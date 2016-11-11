@@ -411,16 +411,20 @@
     var Y_BEGIN = 400
     var Y_END = 100
 
+    var mintemp = - 100
+    var maxtemp = 300
+    var daysinyear = 365
 
     // define variables
     var days;
     var days0 = linesplit[1][0].getTime() / 1000 / 60 / 60 / 24;
-    var months = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+    var months = ["January", "February", "March", "April", "May",
+    "June","July", "August", "September", "October", "November", "December"];
     var counter = 0;
 
     // create transform functions
-    var transform_x = createTransform([0, 365], [X_BEGIN , X_END]);
-    var transform_y = createTransform([-100, 300], [Y_BEGIN, Y_END])
+    var transform_x = createTransform([0, daysinyear], [X_BEGIN , X_END]);
+    var transform_y = createTransform([mintemp, maxtemp], [Y_BEGIN, Y_END])
 
     // set canvas
     var canvas = document.getElementById('mycanvas');
@@ -444,7 +448,7 @@
     ctx.moveTo(X_END, Y_BEGIN);
     ctx.lineTo(transform_x(0), Y_BEGIN);
     ctx.moveTo(transform_x(0) - 10, Y_BEGIN )
-    ctx.lineTo(transform_x(0) - 10,transform_y(300));
+    ctx.lineTo(transform_x(0) - 10, transform_y(300));
 
 
     for (i in linesplit){
@@ -477,11 +481,11 @@
     ctx.lineTo(transform_x(365), Y_BEGIN + 10);
 
     // draw ticks and text on y axis
-    for (i = 0; i < 11; i++){
+    for (i = 0; i < 9; i++){
 
-      ctx.moveTo(transform_x(0) - 10, transform_y(- 100 + (i * 400/10)));
-      ctx.lineTo(transform_x(0) - 18, transform_y(-100 + (i * 400/10)));
-      ctx.fillText( - 100 + i * 50 , transform_x(0) - 40, transform_y(-100 + (i * 400/10)));
+      ctx.moveTo(transform_x(0) - 10, transform_y(mintemp + (i * (maxtemp + 100) /8)));
+      ctx.lineTo(transform_x(0) - 18, transform_y(mintemp + (i * (maxtemp + 100) /8)));
+      ctx.fillText( - 100 + i * 50 , transform_x(0) - 40, transform_y(mintemp + (i * (maxtemp + 100)/8)));
 
     }
 
