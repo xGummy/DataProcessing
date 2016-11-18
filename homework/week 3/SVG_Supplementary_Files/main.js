@@ -11,6 +11,3 @@ window.onload = function() {
 function changeColor(id, color) {
         document.getElementById(id).style.fill = color;
 }
-
-var obj = JSON.parse(document.getElementById("population"));
-console.log(obj);
