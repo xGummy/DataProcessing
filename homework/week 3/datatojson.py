@@ -6,7 +6,7 @@ import csv
 list1 = []
 list2 = []
 
-with open('C:\Users\Emmaa\Documents\GitHub\DataProcessing\homework\week 3\population.csv') as f:
+with open('population.csv') as f:
     reader = csv.reader(f)
     for row in reader:
         list1.append({"country": row[0], "population": row[59]})
