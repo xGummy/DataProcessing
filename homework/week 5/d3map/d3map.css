@@ -1,0 +1,12 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  margin: 50px;
+}
+
+#source {
+  font-size: 10px;
+}
+
+p {
+  width: 960px;
+}

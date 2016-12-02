@@ -1,0 +1,32 @@
+<!--Emma van proosdij 10663657-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Datamaps Source -->
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/datamaps.world.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/topojson.js"></script>
+    <script src="d3map.js"></script>
+    <link rel="stylesheet" type="text/css" href="d3map.css"/>
+  </head>
+  <body>
+    <h1>
+      Population Density word 2015
+    </h1>
+    <p id = "source">
+      source: The Wold Bank
+    </p>
+    <p>
+      I have chosen to highlight the borders in a dark color on mouseover to clearly display the outlines of a land.
+      I have chosen not to change te color of the land on mouseover because the land is already
+      clear from the outlines and if it keeps the original color you can still see the population density by color.
+      On mouseover a tip displays the country and the number of people that live on a square metre.
+      This function is useful if you want to know the exact number of people that live on a square meter, and not
+      only an indication like in the color scheme.
+      I have chosen to display that data in a tip and not on the map itself so the overview is easier to look at,
+      and also for small countries it would not fit. Now the same method can be applied to all countries.
+    </p>
+    <div id="container1" style="height: 500px; width: 960px"></div>
+  </body>
+</html>

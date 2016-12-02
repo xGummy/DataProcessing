@@ -1,0 +1,1030 @@
+{
+    "ABW": {
+        "fillKey": 1000,
+        "population": 577.16
+    },
+    "AFG": {
+        "fillKey": 50,
+        "population": 49.82
+    },
+    "AGO": {
+        "fillKey": 25,
+        "population": 20.07
+    },
+    "ALB": {
+        "fillKey": 150,
+        "population": 105.44
+    },
+    "AND": {
+        "fillKey": 150,
+        "population": 149.94
+    },
+    "ARB": {
+        "fillKey": 50,
+        "population": 28.78
+    },
+    "ARE": {
+        "fillKey": 150,
+        "population": 109.53
+    },
+    "ARG": {
+        "fillKey": 25,
+        "population": 15.86
+    },
+    "ARM": {
+        "fillKey": 150,
+        "population": 106.0
+    },
+    "ASM": {
+        "fillKey": 300,
+        "population": 277.69
+    },
+    "ATG": {
+        "fillKey": 300,
+        "population": 208.68
+    },
+    "AUS": {
+        "fillKey": 10,
+        "population": 3.1
+    },
+    "AUT": {
+        "fillKey": 150,
+        "population": 104.34
+    },
+    "AZE": {
+        "fillKey": 150,
+        "population": 116.76
+    },
+    "BDI": {
+        "fillKey": 1000,
+        "population": 435.32
+    },
+    "BEL": {
+        "fillKey": 1000,
+        "population": 372.71
+    },
+    "BEN": {
+        "fillKey": 100,
+        "population": 96.49
+    },
+    "BFA": {
+        "fillKey": 75,
+        "population": 66.18
+    },
+    "BGD": {
+        "fillKey": 3000,
+        "population": 1236.81
+    },
+    "BGR": {
+        "fillKey": 75,
+        "population": 66.12
+    },
+    "BHR": {
+        "fillKey": 3000,
+        "population": 1788.62
+    },
+    "BHS": {
+        "fillKey": 50,
+        "population": 38.76
+    },
+    "BIH": {
+        "fillKey": 75,
+        "population": 74.42
+    },
+    "BLR": {
+        "fillKey": 50,
+        "population": 46.88
+    },
+    "BLZ": {
+        "fillKey": 25,
+        "population": 15.75
+    },
+    "BMU": {
+        "fillKey": 3000,
+        "population": 1304.7
+    },
+    "BOL": {
+        "fillKey": 10,
+        "population": 9.9
+    },
+    "BRA": {
+        "fillKey": 25,
+        "population": 24.87
+    },
+    "BRB": {
+        "fillKey": 1000,
+        "population": 660.97
+    },
+    "BRN": {
+        "fillKey": 100,
+        "population": 80.3
+    },
+    "BTN": {
+        "fillKey": 25,
+        "population": 20.33
+    },
+    "BWA": {
+        "fillKey": 10,
+        "population": 3.99
+    },
+    "CAF": {
+        "fillKey": 10,
+        "population": 7.87
+    },
+    "CAN": {
+        "fillKey": 10,
+        "population": 3.94
+    },
+    "CEB": {
+        "fillKey": 100,
+        "population": 93.59
+    },
+    "CHE": {
+        "fillKey": 300,
+        "population": 209.71
+    },
+    "CHI": {
+        "fillKey": 1000,
+        "population": 861.54
+    },
+    "CHL": {
+        "fillKey": 25,
+        "population": 24.14
+    },
+    "CHN": {
+        "fillKey": 150,
+        "population": 146.06
+    },
+    "CIV": {
+        "fillKey": 75,
+        "population": 71.39
+    },
+    "CMR": {
+        "fillKey": 50,
+        "population": 49.38
+    },
+    "COD": {
+        "fillKey": 50,
+        "population": 34.08
+    },
+    "COG": {
+        "fillKey": 25,
+        "population": 13.53
+    },
+    "COL": {
+        "fillKey": 50,
+        "population": 43.47
+    },
+    "COM": {
+        "fillKey": 1000,
+        "population": 423.68
+    },
+    "CPV": {
+        "fillKey": 150,
+        "population": 129.16
+    },
+    "CRI": {
+        "fillKey": 100,
+        "population": 94.16
+    },
+    "CSS": {
+        "fillKey": 25,
+        "population": 17.41
+    },
+    "CUB": {
+        "fillKey": 150,
+        "population": 107.0
+    },
+    "CUW": {
+        "fillKey": 1000,
+        "population": 355.95
+    },
+    "CYM": {
+        "fillKey": 300,
+        "population": 249.86
+    },
+    "CYP": {
+        "fillKey": 150,
+        "population": 126.11
+    },
+    "CZE": {
+        "fillKey": 150,
+        "population": 136.62
+    },
+    "Country Code": {
+        "fillKey": 3000,
+        "population": 2015.0
+    },
+    "DEU": {
+        "fillKey": 300,
+        "population": 233.58
+    },
+    "DJI": {
+        "fillKey": 50,
+        "population": 38.3
+    },
+    "DMA": {
+        "fillKey": 100,
+        "population": 96.91
+    },
+    "DNK": {
+        "fillKey": 150,
+        "population": 133.77
+    },
+    "DOM": {
+        "fillKey": 300,
+        "population": 217.89
+    },
+    "DZA": {
+        "fillKey": 25,
+        "population": 16.65
+    },
+    "EAP": {
+        "fillKey": 150,
+        "population": 127.88
+    },
+    "EAR": {
+        "fillKey": 100,
+        "population": 94.32
+    },
+    "EAS": {
+        "fillKey": 100,
+        "population": 93.46
+    },
+    "ECA": {
+        "fillKey": 25,
+        "population": 18.18
+    },
+    "ECS": {
+        "fillKey": 50,
+        "population": 33.09
+    },
+    "ECU": {
+        "fillKey": 75,
+        "population": 65.0
+    },
+    "EGY": {
+        "fillKey": 100,
+        "population": 91.93
+    },
+    "EMU": {
+        "fillKey": 150,
+        "population": 126.75
+    },
+    "ESP": {
+        "fillKey": 100,
+        "population": 92.8
+    },
+    "EST": {
+        "fillKey": 50,
+        "population": 30.95
+    },
+    "ETH": {
+        "fillKey": 100,
+        "population": 99.39
+    },
+    "EUU": {
+        "fillKey": 150,
+        "population": 120.26
+    },
+    "FCS": {
+        "fillKey": 50,
+        "population": 32.77
+    },
+    "FIN": {
+        "fillKey": 25,
+        "population": 18.04
+    },
+    "FJI": {
+        "fillKey": 50,
+        "population": 48.83
+    },
+    "FRA": {
+        "fillKey": 150,
+        "population": 122.01
+    },
+    "FRO": {
+        "fillKey": 50,
+        "population": 34.53
+    },
+    "FSM": {
+        "fillKey": 150,
+        "population": 149.23
+    },
+    "GAB": {
+        "fillKey": 10,
+        "population": 6.7
+    },
+    "GBR": {
+        "fillKey": 300,
+        "population": 269.24
+    },
+    "GEO": {
+        "fillKey": 75,
+        "population": 64.37
+    },
+    "GHA": {
+        "fillKey": 150,
+        "population": 120.46
+    },
+    "GIN": {
+        "fillKey": 75,
+        "population": 51.31
+    },
+    "GMB": {
+        "fillKey": 300,
+        "population": 196.73
+    },
+    "GNB": {
+        "fillKey": 75,
+        "population": 65.59
+    },
+    "GNQ": {
+        "fillKey": 50,
+        "population": 30.13
+    },
+    "GRC": {
+        "fillKey": 100,
+        "population": 83.97
+    },
+    "GRD": {
+        "fillKey": 1000,
+        "population": 314.19
+    },
+    "GRL": {
+        "fillKey": 10,
+        "population": 0.14
+    },
+    "GTM": {
+        "fillKey": 300,
+        "population": 152.51
+    },
+    "GUM": {
+        "fillKey": 1000,
+        "population": 314.6
+    },
+    "GUY": {
+        "fillKey": 10,
+        "population": 3.9
+    },
+    "HIC": {
+        "fillKey": 50,
+        "population": 33.85
+    },
+    "HND": {
+        "fillKey": 75,
+        "population": 72.17
+    },
+    "HPC": {
+        "fillKey": 50,
+        "population": 36.5
+    },
+    "HRV": {
+        "fillKey": 100,
+        "population": 75.49
+    },
+    "HTI": {
+        "fillKey": 1000,
+        "population": 388.65
+    },
+    "HUN": {
+        "fillKey": 150,
+        "population": 108.75
+    },
+    "IBD": {
+        "fillKey": 75,
+        "population": 66.68
+    },
+    "IBT": {
+        "fillKey": 75,
+        "population": 64.6
+    },
+    "IDA": {
+        "fillKey": 75,
+        "population": 59.47
+    },
+    "IDB": {
+        "fillKey": 100,
+        "population": 85.83
+    },
+    "IDN": {
+        "fillKey": 150,
+        "population": 142.18
+    },
+    "IDX": {
+        "fillKey": 75,
+        "population": 50.81
+    },
+    "IMN": {
+        "fillKey": 300,
+        "population": 154.0
+    },
+    "IND": {
+        "fillKey": 1000,
+        "population": 440.96
+    },
+    "IRL": {
+        "fillKey": 75,
+        "population": 67.36
+    },
+    "IRN": {
+        "fillKey": 50,
+        "population": 48.58
+    },
+    "IRQ": {
+        "fillKey": 100,
+        "population": 83.86
+    },
+    "ISL": {
+        "fillKey": 10,
+        "population": 3.3
+    },
+    "ISR": {
+        "fillKey": 1000,
+        "population": 387.26
+    },
+    "ITA": {
+        "fillKey": 300,
+        "population": 206.71
+    },
+    "JAM": {
+        "fillKey": 300,
+        "population": 251.7
+    },
+    "JOR": {
+        "fillKey": 100,
+        "population": 85.54
+    },
+    "JPN": {
+        "fillKey": 1000,
+        "population": 348.25
+    },
+    "KAZ": {
+        "fillKey": 10,
+        "population": 6.5
+    },
+    "KEN": {
+        "fillKey": 100,
+        "population": 80.91
+    },
+    "KGZ": {
+        "fillKey": 50,
+        "population": 31.06
+    },
+    "KHM": {
+        "fillKey": 100,
+        "population": 88.25
+    },
+    "KIR": {
+        "fillKey": 150,
+        "population": 138.79
+    },
+    "KNA": {
+        "fillKey": 300,
+        "population": 213.74
+    },
+    "KOR": {
+        "fillKey": 1000,
+        "population": 519.33
+    },
+    "KSV": {
+        "fillKey": 300,
+        "population": 165.07
+    },
+    "KWT": {
+        "fillKey": 300,
+        "population": 218.41
+    },
+    "LAC": {
+        "fillKey": 50,
+        "population": 31.7
+    },
+    "LAO": {
+        "fillKey": 50,
+        "population": 29.47
+    },
+    "LBN": {
+        "fillKey": 1000,
+        "population": 571.92
+    },
+    "LBR": {
+        "fillKey": 50,
+        "population": 46.75
+    },
+    "LBY": {
+        "fillKey": 10,
+        "population": 3.57
+    },
+    "LCA": {
+        "fillKey": 1000,
+        "population": 303.28
+    },
+    "LCN": {
+        "fillKey": 50,
+        "population": 31.58
+    },
+    "LDC": {
+        "fillKey": 50,
+        "population": 47.32
+    },
+    "LIC": {
+        "fillKey": 50,
+        "population": 47.7
+    },
+    "LIE": {
+        "fillKey": 300,
+        "population": 234.57
+    },
+    "LKA": {
+        "fillKey": 1000,
+        "population": 334.33
+    },
+    "LMC": {
+        "fillKey": 150,
+        "population": 134.57
+    },
+    "LMY": {
+        "fillKey": 75,
+        "population": 65.07
+    },
+    "LSO": {
+        "fillKey": 75,
+        "population": 70.32
+    },
+    "LTE": {
+        "fillKey": 75,
+        "population": 50.51
+    },
+    "LTU": {
+        "fillKey": 50,
+        "population": 46.43
+    },
+    "LUX": {
+        "fillKey": 300,
+        "population": 219.95
+    },
+    "LVA": {
+        "fillKey": 50,
+        "population": 31.81
+    },
+    "MAF": {
+        "fillKey": 1000,
+        "population": 583.71
+    },
+    "MAR": {
+        "fillKey": 100,
+        "population": 77.03
+    },
+    "MDA": {
+        "fillKey": 150,
+        "population": 123.76
+    },
+    "MDG": {
+        "fillKey": 50,
+        "population": 41.66
+    },
+    "MDV": {
+        "fillKey": 3000,
+        "population": 1363.88
+    },
+    "MEA": {
+        "fillKey": 50,
+        "population": 37.74
+    },
+    "MEX": {
+        "fillKey": 75,
+        "population": 65.34
+    },
+    "MHL": {
+        "fillKey": 300,
+        "population": 294.41
+    },
+    "MIC": {
+        "fillKey": 75,
+        "population": 67.93
+    },
+    "MKD": {
+        "fillKey": 100,
+        "population": 82.41
+    },
+    "MLI": {
+        "fillKey": 25,
+        "population": 14.42
+    },
+    "MLT": {
+        "fillKey": 3000,
+        "population": 1347.92
+    },
+    "MMR": {
+        "fillKey": 100,
+        "population": 82.53
+    },
+    "MNA": {
+        "fillKey": 50,
+        "population": 41.96
+    },
+    "MNE": {
+        "fillKey": 50,
+        "population": 46.27
+    },
+    "MNG": {
+        "fillKey": 10,
+        "population": 1.9
+    },
+    "MNP": {
+        "fillKey": 150,
+        "population": 119.72
+    },
+    "MOZ": {
+        "fillKey": 50,
+        "population": 35.58
+    },
+    "MRT": {
+        "fillKey": 10,
+        "population": 3.95
+    },
+    "MUS": {
+        "fillKey": 1000,
+        "population": 621.97
+    },
+    "MWI": {
+        "fillKey": 300,
+        "population": 182.6
+    },
+    "MYS": {
+        "fillKey": 100,
+        "population": 92.32
+    },
+    "NAC": {
+        "fillKey": 25,
+        "population": 19.59
+    },
+    "NAM": {
+        "fillKey": 10,
+        "population": 2.99
+    },
+    "NCL": {
+        "fillKey": 25,
+        "population": 14.93
+    },
+    "NER": {
+        "fillKey": 25,
+        "population": 15.71
+    },
+    "NGA": {
+        "fillKey": 300,
+        "population": 200.05
+    },
+    "NIC": {
+        "fillKey": 75,
+        "population": 50.54
+    },
+    "NLD": {
+        "fillKey": 1000,
+        "population": 503.02
+    },
+    "NOR": {
+        "fillKey": 25,
+        "population": 14.23
+    },
+    "NPL": {
+        "fillKey": 300,
+        "population": 198.91
+    },
+    "NRU": {
+        "fillKey": 1000,
+        "population": 511.1
+    },
+    "NZL": {
+        "fillKey": 25,
+        "population": 17.45
+    },
+    "OED": {
+        "fillKey": 50,
+        "population": 37.29
+    },
+    "OMN": {
+        "fillKey": 25,
+        "population": 14.51
+    },
+    "OSS": {
+        "fillKey": 25,
+        "population": 14.11
+    },
+    "PAK": {
+        "fillKey": 300,
+        "population": 245.08
+    },
+    "PAN": {
+        "fillKey": 75,
+        "population": 52.85
+    },
+    "PER": {
+        "fillKey": 25,
+        "population": 24.51
+    },
+    "PHL": {
+        "fillKey": 1000,
+        "population": 337.72
+    },
+    "PLW": {
+        "fillKey": 50,
+        "population": 46.28
+    },
+    "PNG": {
+        "fillKey": 25,
+        "population": 16.82
+    },
+    "POL": {
+        "fillKey": 150,
+        "population": 124.1
+    },
+    "PRE": {
+        "fillKey": 50,
+        "population": 42.16
+    },
+    "PRI": {
+        "fillKey": 1000,
+        "population": 391.68
+    },
+    "PRK": {
+        "fillKey": 300,
+        "population": 208.91
+    },
+    "PRT": {
+        "fillKey": 150,
+        "population": 112.98
+    },
+    "PRY": {
+        "fillKey": 25,
+        "population": 16.71
+    },
+    "PSE": {
+        "fillKey": 1000,
+        "population": 734.58
+    },
+    "PSS": {
+        "fillKey": 50,
+        "population": 36.62
+    },
+    "PST": {
+        "fillKey": 50,
+        "population": 34.89
+    },
+    "PYF": {
+        "fillKey": 100,
+        "population": 77.26
+    },
+    "QAT": {
+        "fillKey": 300,
+        "population": 192.54
+    },
+    "ROU": {
+        "fillKey": 100,
+        "population": 86.22
+    },
+    "RUS": {
+        "fillKey": 10,
+        "population": 8.8
+    },
+    "RWA": {
+        "fillKey": 1000,
+        "population": 470.6
+    },
+    "SAS": {
+        "fillKey": 1000,
+        "population": 365.53
+    },
+    "SAU": {
+        "fillKey": 25,
+        "population": 14.67
+    },
+    "SDN": {
+        "fillKey": 25,
+        "population": 22.13
+    },
+    "SEN": {
+        "fillKey": 100,
+        "population": 78.58
+    },
+    "SLB": {
+        "fillKey": 25,
+        "population": 20.85
+    },
+    "SLE": {
+        "fillKey": 100,
+        "population": 89.4
+    },
+    "SLV": {
+        "fillKey": 300,
+        "population": 295.68
+    },
+    "SMR": {
+        "fillKey": 1000,
+        "population": 529.68
+    },
+    "SOM": {
+        "fillKey": 25,
+        "population": 17.19
+    },
+    "SRB": {
+        "fillKey": 100,
+        "population": 81.16
+    },
+    "SSA": {
+        "fillKey": 50,
+        "population": 42.38
+    },
+    "SSF": {
+        "fillKey": 50,
+        "population": 42.38
+    },
+    "SST": {
+        "fillKey": 25,
+        "population": 15.22
+    },
+    "STP": {
+        "fillKey": 300,
+        "population": 198.28
+    },
+    "SUR": {
+        "fillKey": 10,
+        "population": 3.48
+    },
+    "SVK": {
+        "fillKey": 150,
+        "population": 112.79
+    },
+    "SVN": {
+        "fillKey": 150,
+        "population": 102.47
+    },
+    "SWE": {
+        "fillKey": 25,
+        "population": 24.06
+    },
+    "SWZ": {
+        "fillKey": 75,
+        "population": 74.82
+    },
+    "SXM": {
+        "fillKey": 3000,
+        "population": 1141.68
+    },
+    "SYC": {
+        "fillKey": 300,
+        "population": 204.18
+    },
+    "SYR": {
+        "fillKey": 150,
+        "population": 100.76
+    },
+    "TCA": {
+        "fillKey": 50,
+        "population": 36.15
+    },
+    "TCD": {
+        "fillKey": 25,
+        "population": 11.15
+    },
+    "TEA": {
+        "fillKey": 150,
+        "population": 127.26
+    },
+    "TEC": {
+        "fillKey": 25,
+        "population": 19.73
+    },
+    "TGO": {
+        "fillKey": 150,
+        "population": 134.3
+    },
+    "THA": {
+        "fillKey": 150,
+        "population": 133.02
+    },
+    "TJK": {
+        "fillKey": 75,
+        "population": 60.6
+    },
+    "TKM": {
+        "fillKey": 25,
+        "population": 11.43
+    },
+    "TLA": {
+        "fillKey": 50,
+        "population": 30.98
+    },
+    "TLS": {
+        "fillKey": 100,
+        "population": 83.73
+    },
+    "TMN": {
+        "fillKey": 50,
+        "population": 41.48
+    },
+    "TON": {
+        "fillKey": 150,
+        "population": 147.46
+    },
+    "TSA": {
+        "fillKey": 1000,
+        "population": 365.53
+    },
+    "TSS": {
+        "fillKey": 50,
+        "population": 42.38
+    },
+    "TTO": {
+        "fillKey": 300,
+        "population": 265.12
+    },
+    "TUN": {
+        "fillKey": 75,
+        "population": 71.5
+    },
+    "TUR": {
+        "fillKey": 150,
+        "population": 102.21
+    },
+    "TUV": {
+        "fillKey": 1000,
+        "population": 330.53
+    },
+    "TZA": {
+        "fillKey": 75,
+        "population": 60.36
+    },
+    "UGA": {
+        "fillKey": 300,
+        "population": 194.66
+    },
+    "UKR": {
+        "fillKey": 100,
+        "population": 78.02
+    },
+    "UMC": {
+        "fillKey": 50,
+        "population": 43.57
+    },
+    "URY": {
+        "fillKey": 25,
+        "population": 19.61
+    },
+    "USA": {
+        "fillKey": 50,
+        "population": 35.14
+    },
+    "UZB": {
+        "fillKey": 75,
+        "population": 73.58
+    },
+    "VCT": {
+        "fillKey": 300,
+        "population": 280.67
+    },
+    "VEN": {
+        "fillKey": 50,
+        "population": 35.27
+    },
+    "VGB": {
+        "fillKey": 300,
+        "population": 200.78
+    },
+    "VIR": {
+        "fillKey": 300,
+        "population": 295.93
+    },
+    "VNM": {
+        "fillKey": 300,
+        "population": 295.75
+    },
+    "VUT": {
+        "fillKey": 25,
+        "population": 21.71
+    },
+    "WLD": {
+        "fillKey": 75,
+        "population": 56.63
+    },
+    "WSM": {
+        "fillKey": 75,
+        "population": 68.28
+    },
+    "YEM": {
+        "fillKey": 75,
+        "population": 50.82
+    },
+    "ZAF": {
+        "fillKey": 50,
+        "population": 45.3
+    },
+    "ZMB": {
+        "fillKey": 25,
+        "population": 21.81
+    },
+    "ZWE": {
+        "fillKey": 50,
+        "population": 40.33
+    }
+}
