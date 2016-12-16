@@ -1,0 +1,59 @@
+<!--Emma van proosdij 10663657-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Datamaps Source -->
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/datamaps.world.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/topojson.js"></script>
+    <script src="d3map2.js"></script>
+    <link rel="stylesheet" type="text/css" href="d3map2.css"/>
+
+  </head>
+  <body>
+    <h1>
+      What energy sources do countries use to generate electricity?
+    </h1>
+
+    <img src = "http://www.bisgrp.com/assets/images/event-banner/web%20970x202%20-%20Electricity%20Trading%20and%20Market%20Dynamics%202016,%20London.jpg.jpg" style="width:100%;">
+    <p id = "source">
+      source: The shift project data portal
+    </p>
+    <div class = "list">
+        <h3> pick a year: </h3>
+          <ul class="dropdown-menu" role="menu">
+            <li><a class="m" value="2010" href="#">2010</a></li>
+            <li><a class="m" value="2011" href="#">2011</a></li>
+            <li><a class="m" value="2012" href="#">2012</a></li>
+            <li><a class="m" value="2013" href="#">2013</a></li>
+            <li><a class="m" value="2014" href="#">2014</a></li>
+          </ul>
+      </div>
+      <table>
+        <tr>
+    <td>
+      <h3> total electicity generation per country (KWh) </h3>
+    </td>
+    <td>
+      <h3> energy sources for electricity </h3>
+    </td>
+  </tr>
+    <tr>
+      <td>
+        <div id="container1" style="height: 500px; width: 650px">
+        </div>
+      </td>
+      <td>
+        <div id="tooltip" class="hidden">
+        <p><span id="value">100</span></p>
+    </div>
+        <svg id="container2" style="height: 400px; width: 650px;"></svg>
+      </td>
+    </tr>
+  </table>
+
+  <p> Emma van Proosdij 10663657 <p>
+
+  </body>
+</html>
